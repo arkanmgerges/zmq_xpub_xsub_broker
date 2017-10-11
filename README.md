@@ -1,4 +1,4 @@
-# zmq_xpub_xsub_broker
+# ZeroMQ XPUB XSUB Proxy Written in C Language
 ZeroMQ xpub-xsub broker - zmq v4.2.2
 
 ### Introduction
