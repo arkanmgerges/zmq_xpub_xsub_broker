@@ -7,10 +7,10 @@ This is a zero mq broker for xpub and xsub, this will let you provide 2 argument
 ### Usage
 For example to open port 5022 for frontend and 5023 for backend then you can issue the following command:
 ```sh
-docker run -d -p 5022-5023:5022-5023 arkanmgerges/zmq_xpub_xsub_broker:1.0 tcp://:5022 tcp://:5023
+docker run -d -p 5022-5023:5022-5023 arkanmgerges/zmq_xpub_xsub_broker tcp://:5022 tcp://:5023
 ```
 
 By default the box will listen to the ports 5001 and 5002, but you need to make them public to your host by the following command:
 ```sh
-docker run -d -p 5001-5002:5001-5002 arkanmgerges/zmq_xpub_xsub_broker:1.0
+docker run -d -p 5001-5002:5001-5002 arkanmgerges/zmq_xpub_xsub_broker
 ```
