@@ -1,0 +1,6 @@
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/CMakeFiles/zmq_xpub_xsub_broker.dir
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug/test/CMakeFiles/appTest.dir

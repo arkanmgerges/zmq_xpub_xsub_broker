@@ -1,0 +1,4 @@
+C:\Users\arkan\.CLion2017.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/arkan/work/zmq_xpub_xsub_broker/zmq_xpub_xsub_broker/cmake-build-debug
